@@ -1,0 +1,8 @@
+C:\Users\pc\Desktop\Project1\Debug\Project1.exe
+C:\Users\pc\Desktop\Project1\Debug\Project1.pdb
+F:\1학년 2학기\API(vs2019)\7.메뉴+도형그리기\Debug\Project1.exe
+F:\1학년 2학기\API(vs2019)\7.메뉴+도형그리기\Debug\Project1.pdb
+C:\Users\user\Desktop\7.메뉴+도형그리기\Debug\Project1.exe
+C:\Users\user\Desktop\7.메뉴+도형그리기\Debug\Project1.pdb
+C:\Users\user\Desktop\7.메뉴+도형그리기(+ 더블버퍼링)\Debug\Project1.exe
+C:\Users\user\Desktop\7.메뉴+도형그리기(+ 더블버퍼링)\Debug\Project1.pdb

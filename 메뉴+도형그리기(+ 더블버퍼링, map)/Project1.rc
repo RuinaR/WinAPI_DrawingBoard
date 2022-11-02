@@ -1,0 +1,112 @@
+// Microsoft Visual C++ generated resource script.
+//
+#include "resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#include "winres.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// 한국어(대한민국) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_KOR)
+LANGUAGE LANG_KOREAN, SUBLANG_DEFAULT
+#pragma code_page(949)
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE 
+BEGIN
+    "resource.h\0"
+END
+
+2 TEXTINCLUDE 
+BEGIN
+    "#include ""winres.h""\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE 
+BEGIN
+    "\r\n"
+    "\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Menu
+//
+
+IDR_MENU1 MENU
+BEGIN
+    POPUP "파일"
+    BEGIN
+        MENUITEM "직선",                          ID_LINE
+        MENUITEM "원",                           ID_CIRCLE
+        MENUITEM "사각형",                         ID_RECT
+        MENUITEM "종료",                          ID_END
+    END
+END
+
+IDR_MENU3 MENU
+BEGIN
+    POPUP "도형"
+    BEGIN
+        MENUITEM "선",                           M_LINE
+        MENUITEM "원",                           M_CIRCLE
+        MENUITEM "사각형",                         M_RECT
+    END
+    POPUP "면 색상"
+    BEGIN
+        MENUITEM "빨강",                          BRUSH_RED
+        MENUITEM "초록",                          BRUSH_GREEN
+        MENUITEM "파랑",                          BRUSH_BLUE
+    END
+    POPUP "선 색상"
+    BEGIN
+        MENUITEM "빨강",                          PEN_RED
+        MENUITEM "초록",                          PEN_GREEN
+        MENUITEM "파랑",                          PEN_BLUE
+    END
+    POPUP "선 굵기"
+    BEGIN
+        MENUITEM "1",                           LINE_W_1
+        MENUITEM "2",                           LINE_W_2
+        MENUITEM "3",                           LINE_W_3
+        MENUITEM "4",                           LINE_W_4
+        MENUITEM "5",                           LINE_W_5
+    END
+    POPUP "종료"
+    BEGIN
+        MENUITEM "끝내기",                         M_END
+    END
+END
+
+#endif    // 한국어(대한민국) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+
